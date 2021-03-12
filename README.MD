@@ -2,6 +2,8 @@
 
 A lightweight pomodoro timer for the mac command line. 
 
+![](./docs/demo.gif)
+
 ## Features
 
 1. It has COLOURED TEXT
