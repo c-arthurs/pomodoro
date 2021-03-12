@@ -33,7 +33,7 @@ You can also move the file into your path somewhere so that you can just run it 
 
 The work and break times can be set as command arguments like so - 
 
-```console 
+```bash 
 ./pomodoro 25 5 # for 25 mins of work and 5 min break
 ./pomodoro 800 2 # for the beasts out there who work for 800 minutes with a 2 min break
 ./pomodoro 15 30 # for people more like me ... 
