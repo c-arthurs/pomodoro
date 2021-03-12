@@ -4,23 +4,23 @@ A lightweight pomodoro timer for the mac command line.
 
 ## Features
 
-It has COLOURED TEXT
-
-It SPEAKS! 
+1. It has COLOURED TEXT
+2. It SPEAKS! 
 
 ... ok... that is literally it... (I should really stop procrastinating...) 
 
 ## Usage 
 
-Download the file.
-
-Make ./pomodoro executable by running:
+Clone the repo and make ./pomodoro executable by running:
 
 ```console
+git clone git@github.com:c-arthurs/pomodoro.git
+cd pomodoro
 chmod +x ./pomodoro
+./pomodoro
 ```
-open it up!
+That should get it running!
 
-You can also add the file into your path somewhere so that you can just run it as a command from anywhere on your system. 
+You can also move the file into your path somewhere so that you can just run it as a command from anywhere on your system. 
 
 
