@@ -7,15 +7,14 @@ A lightweight pomodoro timer for the mac command line.
 ## Features
 
 1. It has COLOURED TEXT
-2. It SPEAKS! when the sessions are over
-3. It counts up in seconds - this is so that you really feel each second pass by. I find it really motivating.
+2. It SPEAKS when the sessions are over
+3. It counts up in SECONDS - this is so that you really feel each second pass by - I find it really motivating.
 
-... ok... that is literally it... (I should really stop procrastinating...)
-
+*... ok... that is literally it... (I should really stop procrastinating...)*
 
 ## Usage 
 
-Clone the repo and make ./pomodoro executable by running:
+Clone the repo and make ./pomodoro executable by running the following in your terminal:
 
 ```console
 git clone git@github.com:c-arthurs/pomodoro.git
@@ -24,6 +23,8 @@ chmod +x ./pomodoro
 ./pomodoro
 ```
 That should get it running!
+
+It will also work on Unix but it wont speak to you - so what is the point of that? 
 
 Next you need to actually do some work, and so do I.
 
