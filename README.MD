@@ -8,10 +8,10 @@ A lightweight pomodoro timer for the mac command line.
 
 1. It has COLOURED TEXT
 2. It SPEAKS! when the sessions are over
+3. It counts up in seconds - this is so that you really feel each second pass by. I find it really motivating.
 
 ... ok... that is literally it... (I should really stop procrastinating...)
 
-It counts up in seconds - this is so that you really feel each second pass by. I find it really motivating.
 
 ## Usage 
 
