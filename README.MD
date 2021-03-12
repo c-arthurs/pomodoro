@@ -38,4 +38,6 @@ The work and break times can be set as command arguments like so -
 ./pomodoro 800 2 # for the beasts out there who work for 800 minutes with a 2 min break
 ./pomodoro 15 30 # for people more like me ... 
 ```
+There are two args - first is work time, second is rest time
+If left blank then the preset is 50 work 15 break
 
