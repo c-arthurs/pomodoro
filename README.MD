@@ -25,7 +25,7 @@ chmod +x ./pomodoro
 ```
 That should get it running!
 
-Next you need to actually do some work, and so do i.
+Next you need to actually do some work, and so do I.
 
 ## Optional extras
 
